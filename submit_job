@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=FDFD_gpu
+#SBATCH --output=z_job%j.log
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:1
+#SBATCH --time=05:00:00
+#SBATCH --mem=0
+#SBATCH --nodes=1
+
+module load iiser/apps/cuda/11.4 python/3.9.8
+
+python3 ./main.py

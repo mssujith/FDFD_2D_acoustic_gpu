@@ -1,0 +1,27 @@
+==========================================
+SLURM_CLUSTER_NAME = param-brahma
+SLURM_ARRAY_JOB_ID = 
+SLURM_ARRAY_TASK_ID = 
+SLURM_ARRAY_TASK_COUNT = 
+SLURM_ARRAY_TASK_MAX = 
+SLURM_ARRAY_TASK_MIN = 
+SLURM_JOB_ACCOUNT = rahul
+SLURM_JOB_ID = 4447329
+SLURM_JOB_NAME = FDFD_gpu
+SLURM_JOB_NODELIST = gpu007
+SLURM_JOB_USER = mssujith
+SLURM_JOB_UID = 7176
+SLURM_JOB_PARTITION = gpu
+SLURM_TASK_PID = 1507
+SLURM_SUBMIT_DIR = /home/mssujith/GPU/FDFD
+SLURM_CPUS_ON_NODE = 1
+SLURM_NTASKS = 
+SLURM_TASK_PID = 1507
+==========================================
+****************************************************************************************************
+
+END OF MODELING
+
+Elapsed time   ::   129.0 minutes and 12.5 seconds
+
+****************************************************************************************************
